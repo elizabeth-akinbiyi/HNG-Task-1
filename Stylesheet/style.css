@@ -1,0 +1,33 @@
+* {margin: 0;}
+
+
+body {background-color: rgb(68, 95, 173)}
+
+
+.header {background-color: white;
+         padding: 4px;
+         color: rgb(68, 95, 173);
+         font-family: monospace;
+         text-align: center;}
+
+
+.displayimage {width: 247px;
+               height: 330px;
+               margin-left: 280px;
+               margin-top: 30px;
+               border: 3px solid white;}
+
+
+.track {color: white;
+        margin-bottom: 30px;
+        font-family: montserrat medium;
+        letter-spacing: 1px;}
+
+
+footer {color: rgb(68, 95, 173);
+         background-color: white;
+         text-align: center;
+         font-weight: bold;
+         font-size: 20px;
+         padding: 10px;
+         margin-top: 20px;}
